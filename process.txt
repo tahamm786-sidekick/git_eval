@@ -5,3 +5,8 @@ These are the algorithm steps:
 	2. Dont Cheat.
 	3. Get rich.
 	4. Die.
+	
+Advanced Validation Rules:
+	1. Student ID Card
+	2. VNIT AIMS Portal
+	
